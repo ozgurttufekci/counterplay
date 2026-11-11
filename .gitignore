@@ -1,0 +1,11 @@
+node_modules/
+.vercel/
+dist/
+public/stockfish/
+public/THIRD-PARTY-NOTICES.txt
+test-results/
+playwright-report/
+*.tsbuildinfo
+.DS_Store
+.env*
+!.env.example

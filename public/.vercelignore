@@ -1,0 +1,7 @@
+*
+!index.html
+!assets
+!assets/**
+!stockfish
+!stockfish/**
+!THIRD-PARTY-NOTICES.txt
